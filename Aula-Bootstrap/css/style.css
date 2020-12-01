@@ -1,0 +1,80 @@
+body{
+
+    font: 20px Arial, serif;
+    color: white;
+    
+}
+
+
+
+body h2{
+
+    color: black;
+    font-family: arial;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    
+
+
+}
+
+.nav-link{
+
+    margin-right: 50px;
+
+}
+
+.quem-somos{
+
+    background-color: #783c00;
+    padding-bottom: 5px;
+    
+}
+
+.margin{
+
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+
+#title-cima{
+
+    padding-top:30px;
+    margin-bottom: 20px;   
+    
+}
+
+#title-cima-parceiros{
+
+    padding-top:10px;
+    margin-bottom: 20px;   
+    
+}
+
+#title-baixo{
+
+    margin-top:30px;
+    padding-bottom: 30px;
+
+}
+
+.parceiros{
+
+    background-color: #2384B2;
+
+}
+
+.serviços{
+
+    color: black;
+
+}
+
+.bg-footer{
+
+    background-color: black;
+    color: white;
+
+}
